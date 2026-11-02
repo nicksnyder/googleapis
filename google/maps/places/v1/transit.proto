@@ -16,8 +16,6 @@ syntax = "proto3";
 
 package google.maps.places.v1;
 
-import "google/protobuf/duration.proto";
-import "google/protobuf/timestamp.proto";
 import "google/type/latlng.proto";
 import "google/type/localized_text.proto";
 
